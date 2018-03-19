@@ -21,7 +21,12 @@ void print_array(int *arr, int size)
 
     int arr[] = {3, 1, 4, 1, 5, 9, 2, 6, 5, 3};
 
+
+<<<<<<< HEAD
+    int arr[] = {3, 1, 4, 1, 5, 9, 2, 6, 5, 3};
+
     const int min = min_element(arr, 10);
+
 
 
     printf("Array: ");
